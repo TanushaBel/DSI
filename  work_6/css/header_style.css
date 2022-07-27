@@ -1,0 +1,120 @@
+.header {
+    position: absolute;
+    width: 1440px;
+    height: 100px;
+    left: 0;
+    top: 0;
+
+    background: #FFFFFF;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+}
+
+.logo {
+    position: absolute;
+    width: 119px;
+    height: 56px;
+    left: 158px;
+    top: 22px;
+}
+
+.services_nav {
+    position: absolute;
+    width: 68px;
+    height: 21px;
+    left: 410px;
+    top: 40px;
+
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(31, 46, 53, 0.8);
+}
+
+.product_nav {
+    position: absolute;
+    width: 63px;
+    height: 21px;
+    left: 528px;
+    top: 40px;
+
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(31, 46, 53, 0.8);
+}
+
+.technology_nav {
+    position: absolute;
+    width: 93px;
+    height: 21px;
+    left: 641px;
+    top: 40px;
+
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(31, 46, 53, 0.8);
+}
+
+.about_nav {
+    position: absolute;
+    width: 48px;
+    height: 21px;
+    left: 784px;
+    top: 40px;
+
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(31, 46, 53, 0.8);
+}
+
+.client_nav {
+    position: absolute;
+    width: 46px;
+    height: 21px;
+    left: 882px;
+    top: 40px;
+
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(31, 46, 53, 0.8);
+}
+
+.partner_nav {
+    position: absolute;
+    width: 60px;
+    height: 21px;
+    left: 978px;
+    top: 40px;
+
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(31, 46, 53, 0.8);
+}
+
+.union {
+    position: absolute;
+    left: 81.32%;
+    right: 17.29%;
+    top: 41%;
+    bottom: 40.41%;
+}
+
+.mail {
+    position: absolute;
+    left: 84.38%;
+    right: 14.24%;
+    top: 42%;
+    bottom: 42%;
+}
+
+.shuffle {
+    position: absolute;
+    left: 87.43%;
+    right: 11.46%;
+    top: 42%;
+    bottom: 42%;
+}

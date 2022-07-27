@@ -1,0 +1,22 @@
+.footer_2 {
+    position: absolute;
+    width: 1440px;
+    height: 64px;
+    left: 0;
+    top: 2094px;
+
+    background: #EE4248;
+}
+
+.copyright {
+    position: absolute;
+    width: 382px;
+    height: 21px;
+    left: 530px;
+    top: 22px;
+
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}

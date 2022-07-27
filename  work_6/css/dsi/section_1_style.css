@@ -1,0 +1,71 @@
+.section_1 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1125px;
+    height: 500px;
+    left: 157px;
+    top: 150px;
+}
+
+.inform_technology {
+    width: 495px;
+    height: 325px;
+    position: absolute;
+    left: 53.28%;
+    right: 2.74%;
+    top: 16.44%;
+    bottom: 18.56%;
+}
+
+.h_section_1 {
+    position: absolute;
+    width: 545px;
+    height: 192px;
+    left: 0;
+    top: 74px;
+
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 133.69%;
+    color: #1F2E35;
+}
+
+.color {
+    color: #EE4248;
+}
+
+.section_1_p {
+    position: absolute;
+    width: 520px;
+    height: 58px;
+    left: 0;
+    top: 290px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    color: #30444E;
+}
+
+.button {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 12px 32px;
+    gap: 10px;
+
+    position: absolute;
+    width: 161px;
+    height: 53px;
+    left: 0;
+    top: 372px;
+
+    text-decoration: none;
+    color: #FFFFFF;
+    background: #EE4248;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+}
+

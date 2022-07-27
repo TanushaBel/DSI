@@ -1,0 +1,66 @@
+.section_2 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1440px;
+    height: 500px;
+    left: 0;
+    top: 751px;
+
+    background: #F7F7F7;
+}
+
+.welcome_dsi {
+    position: absolute;
+    width: 453px;
+    height: 349px;
+    left: 193px;
+    top: 81px;
+}
+
+.h_section_2 {
+    position: absolute;
+    width: 454px;
+    height: 86px;
+    left: 728px;
+    top: 57px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 133.69%;
+
+    color: #1F2E35;
+}
+
+.section_2_p1 {
+    position: absolute;
+    width: 520px;
+    height: 270px;
+    left: 728px;
+    top: 167px;
+
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+
+    color: #30444E;
+}
+
+.section_2_p2 {
+    margin: 2em 0 0 0;
+}
+
+.button_red {
+    background: #EE4248;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    padding: 12px 32px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    width: 161px;
+    height: 53px;
+    left: 0;
+    top: 372px;
+    position: absolute;
+}

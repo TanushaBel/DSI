@@ -1,0 +1,25 @@
+@import "reset.css";
+@import "fonts.css";
+@import "header_style.css";
+@import "footer_1_style.css";
+@import "footer_2_style.css";
+
+.Desktop {
+    position: relative;
+    width: 1440px;
+    height: 2158px;
+
+    background: #FFFFFF;
+}
+
+.color_red {
+    color: #EE4248;
+}
+
+button {
+    background: none;
+    border: none;
+    font: inherit;
+    cursor: pointer;
+}
+
